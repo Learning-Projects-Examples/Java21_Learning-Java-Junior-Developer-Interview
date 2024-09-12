@@ -1,5 +1,6 @@
-# Java interview - Second simulation:
+# 2. Colloquio quava
 
+## Domande teoria:
 1. Puoi spiegarmi cosa sono i costruttori in Java e qual è il loro scopo principale?
     I costruttori alcuni dei principali metodi di Java: hanno lo stesso nome della classe che "costrusicono" e non hanno alcun tipo di ritorno. Permettono di "costruire un oggetto" che viene poi istanziato attraverso al keyword new. C'è molto margine di personalizzazione per quando riguarda i costruttori: si può avere ad esempio un costruttore vuoto, uno con tutti glia rgomenti, unoc he prende solo alcuni argomenti a secodna dell'esigenza.
     Prendiamo ad esempio uan classe Book presente all'interno di un sistema BookStore, potrebbe magari essere possibile inserire dei campi nulli ad esempio "NewEdition" o "Award". In questo caso è per esempio necessario impostare un costruttore che ometta questi due parametri.

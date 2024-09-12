@@ -49,7 +49,7 @@
       
       Per creare un Thread in Java è necessario estendere la classe Thread o implementando l'interfaccia Runnable.
 
-### Code Analysis
+## Analisi codice
 
 ```java
 public int findKthLargest(int[] nums, int k) {
@@ -99,7 +99,7 @@ Non richiede di ordinare l'intero array.
 ##### Limitazioni:
 Potrebbe non essere la soluzione più efficiente per k molto grandi o prossimi alla dimensione dell'array.
 
-### Code 
+## Scrittura codice
 Scrivi una funzione in Java che accetta un array di interi e restituisce la somma di tutti i numeri pari presenti nell'array.
 Per esempio:
 
