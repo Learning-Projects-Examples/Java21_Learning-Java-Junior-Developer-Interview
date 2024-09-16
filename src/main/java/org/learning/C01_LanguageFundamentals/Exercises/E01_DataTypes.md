@@ -10,3 +10,7 @@
 8. Implementa un sistema di conversione di tipo che possa convertire tra diversi tipi numerici (int, long, float, double).
 9. Crea un programma che dichiari variabili per rappresentare le dimensioni di un rettangolo (lunghezza e larghezza) come numeri interi. Calcola e stampa l'area e il perimetro del rettangolo. Poi, converti le dimensioni in numeri a virgola mobile (float o double) e ricalcola area e perimetro, stampando i nuovi risultati.
 10. Crea un programma che dimostri l'uso di enum per rappresentare un insieme fisso di costanti (ad esempio, giorni della settimana o mesi dell'anno). 
+
+
+### ✔️Soluzioni
+![link_soluzioni!](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S01_DataTypes.java)
