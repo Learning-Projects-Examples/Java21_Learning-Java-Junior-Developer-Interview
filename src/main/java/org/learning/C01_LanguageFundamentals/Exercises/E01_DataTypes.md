@@ -13,4 +13,4 @@
 
 
 ### ❗️Soluzioni
-**[Link per soluzioni](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S01_DataTypes.java)**
+**[Click qui](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S01_DataTypes.java)** per visualizzare le soluzioni degli esercizi.
