@@ -109,7 +109,7 @@ int unboxed = autoboxed; // unboxing
 
 ## Best Practices
 
-1. Usa il tipo più appropriato per il tuo dato, considerando range e precisione necessari
-2. Fai attenzione alle conversioni implicite ed esplicite per evitare perdite di dati
-3. Utilizza le wrapper classes quando hai bisogno di funzionalità aggiuntive o devi lavorare con collezioni generiche
-4. Per grandi numeri o calcoli ad alta precisione, considera l'uso di `BigInteger` e `BigDecimal`
+1. Usare il tipo più appropriato per il tuo dato, considerando range e precisione necessari
+2. Fare attenzione alle conversioni implicite ed esplicite per evitare perdite di dati
+3. Utilizzare le wrapper classes quando hai bisogno di funzionalità aggiuntive o devi lavorare con collezioni generiche
+4. Per grandi numeri o calcoli ad alta precisione, considerare l'uso di `BigInteger` e `BigDecimal`
