@@ -12,5 +12,5 @@
 10. Crea un programma che dimostri l'uso di enum per rappresentare un insieme fisso di costanti (ad esempio, giorni della settimana o mesi dell'anno). 
 
 
-### ✔️Soluzioni
-![link_soluzioni!](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S01_DataTypes.java)
+### ❗️Soluzioni
+[Link per soluzioni] (https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S01_DataTypes.java)
