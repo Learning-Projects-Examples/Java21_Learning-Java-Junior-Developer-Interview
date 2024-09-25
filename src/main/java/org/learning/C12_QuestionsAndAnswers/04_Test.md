@@ -105,7 +105,7 @@ public interface MyInterface {
 - Sono implicitamente `public`
 
 
-Sono stati introdotti per numerose ragioni: facilitano infatti l'aggiornamento delle librerie mantenendo la compatibilità con il codice cliet esistente. Permettono di aggiungere nuovi metodi alle interfacce senza rompere le attuali implementazioni. Con i metodi default, le interfacce possono ora fornire implementazioni concrete: una classe può "ereditare" implementazioni da multiple interfacce, simulando in parte l'ereditarietà multipla. 
+Sono stati introdotti per numerose ragioni: facilitano infatti l'aggiornamento delle librerie mantenendo la compatibilità con il codice client esistente. Permettono di aggiungere nuovi metodi alle interfacce senza rompere le attuali implementazioni. Con i metodi default, le interfacce possono ora fornire implementazioni concrete: una classe può "ereditare" implementazioni da multiple interfacce, simulando in parte l'ereditarietà multipla. 
 
 
 ## Analisi del codice
