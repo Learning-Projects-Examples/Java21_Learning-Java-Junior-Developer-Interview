@@ -76,7 +76,4 @@ public static int binarySearch(int[] arr, int x) {
 - Tecniche di ottimizzazione
 - Trade-off tra tempo e spazio
 
-## Esercizi Pratici
-1. Implementare un algoritmo di ordinamento a scelta e testarlo su un array di interi.
-2. Creare un algoritmo per trovare il numero più frequente in un array.
-3. Implementare un algoritmo per verificare se una stringa è un palindromo.
+
