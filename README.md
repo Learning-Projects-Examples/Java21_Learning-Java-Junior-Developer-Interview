@@ -6,17 +6,17 @@ Welcome to the Java Developer Interview Preparation project! This repository has
 
 The project is organized into several key sections:
 
-1. **Language Fundamentals**: Basics of the Java language
-2. **OOP**: Object-Oriented Programming principles
-3. **Exception Handling**: Managing exceptions
-4. **Collections Framework**: Using Java collections
-5. **Generics**: Generic programming
-6. **File I/O**: File input/output operations
-7. **Multithreading**: Concurrent programming
-8. **Java 8+ Features**: Features of more recent Java versions
-9. **Design Patterns**: Common design patterns
-10. **Testing**: Testing techniques and frameworks
-11. **Database and JDBC**: Interacting with databases
+1. **[Language Fundamentals](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C01_LanguageFundamentals)**: Basics of the Java language
+2. **[OOP](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C02_OOP/Theory)**: Object-Oriented Programming principles
+3. **[Exception Handling](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C03_ExceptionHandling/Theory)**: Managing exceptions
+4. **[Collections Framework](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C04_CollectionsFramework/Theory)**: Using Java collections
+5. **[Generics](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C05_Generics/Theory)**: Generic programming
+6. **[File I/O](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C06_FileIO/Theory)**: File input/output operations
+7. **[Multithreading](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C07_Multithreading/Theory)**: Concurrent programming
+8. **[Java 8+ Features](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C08_Java8Features/Theory)**: Features of more recent Java versions
+9. **[Design Patterns](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C09_DesignPatterns/Theory)**: Common design patterns
+10. **[Testing](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C10_Testing/Theory)**: Testing techniques and frameworks
+11. **[Database and JDBC](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/tree/main/src/main/java/org/learning/C10_Testing/Theory)**: Interacting with databases
 
 ## ⚙️How to Use This Repository
 
