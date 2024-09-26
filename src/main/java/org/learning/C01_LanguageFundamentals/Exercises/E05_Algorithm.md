@@ -1,6 +1,5 @@
-# Esercizi
-
-# 10 Esercizi su Algoritmi in Java
+# 🇮🇹 Esercizi sui Fondamenti del Linguaggio Java
+### Algoritmi in Java
 
 1. **Implementazione del Bubble Sort**
    Scrivi una funzione che implementi l'algoritmo di ordinamento Bubble Sort per ordinare un array di interi in ordine crescente.
@@ -14,24 +13,24 @@
 4. **Merge Sort**
    Implementa l'algoritmo di ordinamento Merge Sort per ordinare un array di interi.
 
-5. **Calcolo del Numero di Fibonacci**
-   Scrivi una funzione che calcoli l'n-esimo numero della sequenza di Fibonacci utilizzando la programmazione dinamica.
+5. **QuickSort**
+      Implementa l'algoritmo di ordinamento QuickSort per ordinare un array di interi. Includi una funzione per scegliere il pivot (ad esempio, l'ultimo elemento o un elemento casuale).
 
-6. **Trovare l'Elemento Maggioritario**
-   Dato un array di interi, trova l'elemento che appare più della metà delle volte (se esiste). Usa l'algoritmo di Boyer-Moore Majority Vote.
+6. **Ricerca del k-esimo elemento più grande**
+   Implementa l'algoritmo QuickSelect per trovare il k-esimo elemento più grande in un array non ordinato di interi.
 
-7. **Depth-First Search (DFS) su Grafo**
-   Implementa l'algoritmo DFS per attraversare un grafo rappresentato come una lista di adiacenza.
+7. **Calcolo del numero di Fibonacci**
+   Scrivi una funzione che calcoli l'n-esimo numero della sequenza di Fibonacci. Implementa sia una versione ricorsiva che una iterativa e confronta le loro prestazioni.
 
-8. **Longest Common Subsequence**
-   Scrivi un algoritmo per trovare la sottosequenza comune più lunga tra due stringhe utilizzando la programmazione dinamica.
+8. **Inversione di una lista collegata**
+   Scrivi una funzione che inverta una lista collegata. La funzione dovrebbe prendere la testa della lista come input e restituire la nuova testa della lista invertita.
 
-9. **Quick Sort**
-   Implementa l'algoritmo di ordinamento Quick Sort per ordinare un array di interi.
+9. **Rilevamento del ciclo in una lista collegata**
+   Implementa un algoritmo per rilevare se una lista collegata contiene un ciclo. Utilizza l'algoritmo della tartaruga e della lepre (Floyd's Cycle-Finding Algorithm).
 
-10. **Dijkstra's Shortest Path**
-    Implementa l'algoritmo di Dijkstra per trovare il percorso più breve in un grafo pesato rappresentato come una matrice di adiacenza.
+10. **Somma di due numeri**
+    Dato un array di interi e un valore target, trova due numeri nell'array che sommati diano il valore target. La funzione dovrebbe restituire gli indici di questi due numeri.
 
 
-### ❗️Soluzioni
+#### ❗️Soluzioni
 **[Click qui](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S01_DataTypes.java)** per visualizzare le soluzioni degli esercizi.

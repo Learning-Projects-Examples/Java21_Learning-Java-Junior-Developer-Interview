@@ -1,9 +1,5 @@
-
-# 🇬🇧 Java Language Fundamentals Exercises
-
 # 🇮🇹 Esercizi sui Fondamenti del Linguaggio Java
-## Esercizi Base sulle strutture di controllo
-### Esercizi sui Cicli For in Java
+### Strutture di controllo
 
 1. **Stampa numeri pari**:
    Scrivi un programma che stampi tutti i numeri pari da 0 a 20 usando un ciclo for.
@@ -36,4 +32,6 @@
 
 8. **Array di Fibonacci**:
    Crea un array con i primi 10 numeri della sequenza di Fibonacci usando un ciclo for.
+
+#### ❗️Soluzioni
 
