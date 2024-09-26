@@ -1,4 +1,4 @@
-# Tipi di Dati in Java: Una Guida Approfondita
+# Tipi di Dati in Java
 
 Java è un linguaggio fortemente tipizzato, il che significa che ogni variabile deve avere un tipo di dato dichiarato. I tipi di dati in Java si dividono in due categorie principali: tipi primitivi e tipi di riferimento.
 
@@ -21,8 +21,8 @@ Esempio di dichiarazione e inizializzazione:
 int myNumber = 5;
 char myChar = 'A';
 boolean isJavaFun = true;
-float myFloat = 3.14f; // Nota la 'f' alla fine per specificare che è un float
-long myLong = 123456789L; // Nota la 'L' alla fine per specificare che è un long
+float myFloat = 3.14f; //  'f' = float
+long myLong = 123456789L; // 'L' = long
 ```
 
 ### Precisione e Arrotondamento
@@ -33,7 +33,7 @@ long myLong = 123456789L; // Nota la 'L' alla fine per specificare che è un lon
 float a = 0.1f;
 float b = 0.2f;
 float c = a + b;
-System.out.println(c); // Potrebbe non stampare esattamente 0.3
+System.out.println(c); // It may not print exactly 0.3
 ```
 
 Per calcoli che richiedono alta precisione, considerare l'uso della classe `BigDecimal`.
@@ -50,9 +50,12 @@ I tipi di riferimento sono usati per oggetti e array. Le principali categorie so
 Esempio:
 
 ```java
+import java.util.ArrayList;
+import java.util.List;
+
 String myString = "Hello, Java!";
 int[] myArray = {1, 2, 3, 4, 5};
-List<String> myList = new ArrayList<>(); // Esempio di uso di interfaccia e classe generica
+List<String> myList = new ArrayList<>(); // Example of interface
 ```
 
 ## Conversione di Tipo (Casting)
@@ -66,10 +69,10 @@ Esempio:
 
 ```java
 int myInt = 9;
-double myDouble = myInt; // Casting implicito
+double myDouble = myInt; // implicit Casting
 
 double anotherDouble = 9.78;
-int anotherInt = (int) anotherDouble; // Casting esplicito
+int anotherInt = (int) anotherDouble; // explicit Casting
 ```
 
 ### Attenzione al Casting
@@ -78,8 +81,8 @@ Il casting esplicito può portare a perdita di dati o precisione. Ad esempio:
 
 ```java
 int largeNumber = 1234567;
-byte smallByte = (byte) largeNumber; // Questo causerà una perdita di dati
-System.out.println(smallByte); // Il risultato potrebbe non essere quello che ti aspetti
+byte smallByte = (byte) largeNumber; // data loss
+System.out.println(smallByte); 
 ```
 
 ## Wrapper Classes
@@ -113,3 +116,8 @@ int unboxed = autoboxed; // unboxing
 2. Fare attenzione alle conversioni implicite ed esplicite per evitare perdite di dati
 3. Utilizzare le wrapper classes quando hai bisogno di funzionalità aggiuntive o devi lavorare con collezioni generiche
 4. Per grandi numeri o calcoli ad alta precisione, considerare l'uso di `BigInteger` e `BigDecimal`
+
+
+
+## 💻 In pratica
+Per mettere in pratica i concetti puoi consultare gli esercizi di riferimento: **[E01_DataTypes](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Exercises/E01_DataTypes.md)**
