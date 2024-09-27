@@ -162,8 +162,8 @@ public class S01_DataTypes {
     }
     private double doAverage(int... numbers) {
         double sum = 0;
-        for (int i = 0; i < numbers.length; i++) {
-            sum += numbers[i];
+        for (int n: numbers) {
+            sum += n;
         }
         return sum / numbers.length;
     }
@@ -268,20 +268,15 @@ public class S01_DataTypes {
      public long intToLong(int value) {
          return (long) value;
      }
-
      public float intToFloat(int value) {
          return (float) value;
      }
-
      public double intToDouble(int value) {
          return (double) value;
      }
-
-
      public int longToInt(long value) {
          return (int) value;
      }
-
      public float longToFloat(long value) {
          return (float) value;
      }

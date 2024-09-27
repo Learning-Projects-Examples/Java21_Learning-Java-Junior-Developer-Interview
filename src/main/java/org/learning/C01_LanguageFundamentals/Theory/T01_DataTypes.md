@@ -58,6 +58,55 @@ int[] myArray = {1, 2, 3, 4, 5};
 List<String> myList = new ArrayList<>(); // Example of interface
 ```
 
+## Varargs (Argomenti Variabili)
+
+Java supporta i metodi con un numero variabile di argomenti (varargs) usando la sintassi `...`. Questo permette di passare un numero arbitrario di argomenti dello stesso tipo a un metodo.
+
+### Sintassi
+
+```java
+public void varArgsMethod(type ... args) {
+    // method body
+}
+```
+#### Esempi di utilizzo
+
+```java
+
+public class example {
+    public static int sum(int... numeri) {
+        int tot = 0;
+        for (int n : numbers) {
+            tot += n;
+        }
+        return tot;
+    }
+}
+
+```
+
+### Punti Chiave
+
+- I varargs devono essere l'ultimo parametro nella lista dei parametri del metodo.
+- Un metodo può avere al massimo un parametro varargs.
+- Internamente, i varargs sono trattati come un array.
+- Possono essere utilizzati con qualsiasi tipo di dato, inclusi i tipi di riferimento.
+
+#### Utilizzo con altri parametri 
+
+Esempio:
+```java
+public static void printInfo(String name, int... votes) {
+    System.out.print(name + ", votes: ");
+    for (int v : votes) {
+        System.out.print(v + " ");
+    }
+    System.out.println();
+}
+
+printInfo("Alice", 20, 45, 70);
+```
+
 ## Conversione di Tipo (Casting)
 
 Java supporta due tipi di casting:

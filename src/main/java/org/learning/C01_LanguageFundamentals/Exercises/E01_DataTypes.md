@@ -7,13 +7,13 @@
 2. **Tipi di variabili:** Scrivi un programma che converta una temperatura da Celsius a Fahrenheit.
 
 
-3. Crea un array di interi e calcola la somma di tutti gli elementi. -> spostare
+3. **Definire array:** Crea un array di interi e uno di double poi stampa i valori (utilizza un ciclo for). 
 
 
 4. **Boxing:** Implementa un programma che utilizzi tutte le wrapper classes, dimostrando autoboxing e unboxing.
 
 
-5. Scrivi una funzione che accetti un numero variabile di argomenti (varargs) e calcoli la media. -> spostare
+5. **Varargs** Scrivi una funzione che accetti un numero variabile di argomenti (varargs) interi e calcoli la media con un ciclco for.
 
 
 6. **Classi:** Crea una classe Person con campi di diversi tipi costruttore pieno e vuoto, getter e setter e implementa i metodi equals() e hashCode(). 
