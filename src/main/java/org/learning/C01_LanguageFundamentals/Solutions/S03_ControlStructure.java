@@ -1,6 +1,6 @@
 package org.learning.C01_LanguageFundamentals.Solutions;
 
-public class S04_ControlStructure {
+public class S03_ControlStructure {
 
     public static void main(String[] args) {
         System.out.println("##### ES1 #####");

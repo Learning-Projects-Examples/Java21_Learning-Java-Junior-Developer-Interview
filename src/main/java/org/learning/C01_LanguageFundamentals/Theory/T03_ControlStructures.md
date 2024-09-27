@@ -131,5 +131,3 @@ public int trovaNumero(int[] array, int target) {
 - L'uso appropriato di break, continue e return può rendere il codice più efficiente e leggibile.
 - È importante evitare cicli infiniti non intenzionali e assicurarsi che le condizioni di uscita siano sempre raggiungibili.
 - Le strutture di controllo possono essere annidate, ma un eccessivo annidamento può rendere il codice difficile da leggere e mantenere.
-
-La padronanza di queste strutture di controllo è essenziale per scrivere codice Java efficace ed efficiente.

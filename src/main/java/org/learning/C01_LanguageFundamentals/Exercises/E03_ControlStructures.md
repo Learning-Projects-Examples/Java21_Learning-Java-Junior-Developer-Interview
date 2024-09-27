@@ -34,5 +34,5 @@
    Crea un array con i primi 10 numeri della sequenza di Fibonacci usando un ciclo for.
 
 #### ❗️Soluzioni
-**[Click qui](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S04_ControlStructures.java)** per visualizzare le soluzioni degli esercizi.
+**[Click qui](https://github.com/Learning-Projects-Examples/Java21_Learning-Java-Junior-Developer-Interview/blob/main/src/main/java/org/learning/C01_LanguageFundamentals/Solutions/S03_ControlStructures.java)** per visualizzare le soluzioni degli esercizi.
 
